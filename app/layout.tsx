@@ -39,6 +39,10 @@ export const metadata: Metadata = {
   title: 'Portfolio — Engineering Digital Experiences That Scale',
   description:
     'Premium portfolio of a senior web developer, SEO strategist, and technology leader. 500+ websites built, 50+ organizations scaled, 6+ years of experience.',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+  },
   openGraph: {
     title: 'YJS Portfolio — Engineering Digital Experiences That Scale',
     description:
